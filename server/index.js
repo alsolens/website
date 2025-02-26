@@ -3,7 +3,7 @@ const app = express();
 
 app.use(express.json());
 
-app.post('/', (req, res) => {
+app.get('/', (req, res) => {
    res.send("hi form before")
 });
 
