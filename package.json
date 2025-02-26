@@ -15,5 +15,8 @@
     "url": "https://github.com/alsolens/website/issues"
   },
   "homepage": "https://github.com/alsolens/website#readme",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
 }
